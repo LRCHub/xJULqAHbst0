@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どこにもいかない／雨衣",
+  "base_artist": "マサラダ",
+  "createdAt": "2026-03-10T05:29:43.565940Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どこにもいかない",
+      "artist": "マサラダ",
+      "has_synced": false,
+      "path": "select/pl_01_どこにもいかない_マサラダ.txt"
+    }
+  ]
+}
